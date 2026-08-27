@@ -1,5 +1,3 @@
-# Earthquake-Data-Engineering-Project-with-Microsoft-Fabric
-
 # Worldwide Earthquake Telemetry & Risk Analytics Platform
 
 A production-grade, end-to-end data platform built entirely within the **Microsoft Fabric** ecosystem (Data Factory, Data Engineering, and Power BI). The platform ingests real-time seismic event telemetry from the United States Geological Survey (USGS) API, refines it through a structured **Lakehouse Medallion Architecture**, and serves high-value geofenced intelligence models for global risk analysis.

@@ -5,7 +5,7 @@ A production-grade, end-to-end data platform built entirely within the **Microso
 ---
 
 ## 🌐 Live Project Showcase
-🚀 **Interactive Web Application:** [Explore the Live App Presentation](https://lovableproject.com)
+🚀 **Interactive Web Application:** [Explore the Live App Presentation](https://worldwide-earthquake-event.lovable.app)
 *   **Live Preview Documentation:** View the interactive project slide narrative, architecture deep-dives, and platform insights directly at `/docs`.
 
 ---
